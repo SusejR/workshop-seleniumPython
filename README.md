@@ -6,6 +6,8 @@ Esta estructura básica fue realizada para las personas que quieren iniciar un c
 
 # Pasos a Seguir 🚀
 
+- Instalar Python en tu pc
+
 
 
 
